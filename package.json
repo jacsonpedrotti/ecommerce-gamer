@@ -1,7 +1,7 @@
 {
   "name": "gam3r.store",
   "private": true,
-  "homepage": "https://{jacsonpedrotti}.github.io/{ecommerce-gamer}",
+  "homepage": "https://jacsonpedrotti.github.io/ecommerce-gamer/"
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
